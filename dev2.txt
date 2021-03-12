@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 asdasdas
-=======
-我是dev2
->>>>>>> master
